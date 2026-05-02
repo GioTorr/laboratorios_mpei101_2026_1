@@ -1,5 +1,5 @@
 # Prácticas de Laboratorio MPEI-101 2026-1
-**Escuela Colombiana de Ingeniería Julio Garavito**
+**Universidad Escuela Colombiana de Ingeniería Julio Garavito**
 
 Repositorio de prácticas de laboratorio desarrolladas durante el primer semestre de 2026 para la asignatura **Microprocesadores e Interfaces (MPEI)**, grupo 101, bajo la tutoría del docente a cargo.
 
